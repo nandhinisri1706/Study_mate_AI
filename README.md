@@ -136,3 +136,9 @@ StudyMate AI is designed to help students prepare for exams by transforming diff
 **Nandhini Sri**
 
 **StudyMate AI — Upload your study material and prepare smarter.**
+
+## Project 
+
+https://studymateai-txytx5sp8nextmjrkjk499.streamlit.app/
+<img width="746" height="406" alt="image" src="https://github.com/user-attachments/assets/9750fce6-49a0-4f9f-bb5d-0fd6c3ebc8bb" />
+
