@@ -4,5 +4,5 @@ python-pptx
 python-docx
 pytesseract
 Pillow
-huggingface_hub
+groq
 python-dotenv
